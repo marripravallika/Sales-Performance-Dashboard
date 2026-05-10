@@ -1,2 +1,3 @@
 # Sales-Performance-Dashboard
-Sales Performance Dashboard project built using Excel, SQL and Power BI. The project includes data cleaning, SQL-based sales analysis and interactive dashboard visualizations for tracking revenue, profit, regional sales and product performance.
+This project was created using Excel, SQL and Power BI to analyze sales data and generate business insights. Excel was used for creating and cleaning the dataset, SQL was used for data analysis and queries, and Power BI was used to create interactive dashboard visualizations such as sales by region, category-wise sales, product performance and profit analysis.
+
